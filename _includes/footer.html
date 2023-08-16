@@ -28,3 +28,7 @@
 
 <!-- Main Script -->
 <script src="{{ '/assets/js/script.js' | relative_url }}"></script>
+
+{% if site.data.settings.google-analytics %}
+    {% include google-analytics.html %}
+  {% endif %}
