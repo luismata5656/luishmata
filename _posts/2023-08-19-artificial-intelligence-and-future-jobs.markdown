@@ -2,7 +2,7 @@
 layout: post
 title:  Artificial Intelligence and Future Jobs
 date:  2023-08-19 12:00:00 -0700
-image:  /assets/images/blog/post-2.png
+image:  /assets/images/blog/post-2.jpg
 author: luis mata
 tags: Tech Enthusiasmm, Creative Exploration, Coding Journey, Artificial Intelligence
 ---
