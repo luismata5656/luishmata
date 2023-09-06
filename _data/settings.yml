@@ -13,7 +13,7 @@ copyright: Copyright &copy; 2023 Designed by Luis Mata
 
 menu:
   # - { name: PPD, link: "/ppd" }
-  # - { name: My Work, link: "/works" }
+  - { name: Portfolio, link: "/portfolio" }
   - { name: About, link: "/about" }
   - { name: Blog, link: "/blog" }
   - { name: Contact, link: "/contact" }
@@ -177,60 +177,30 @@ portfolio-home-items:
     url: "https://twincreek-fencing.com"
 
 # # Portfolio Page
-# portfolio-label:
-#   - { title: "UI/UX Design", type: "design" }
-#   - { title: "BRANDING", type: "branding" }
-#   - { title: "ILLUSTRATION", type: "illustration" }
+portfolio-label:
+  - { title: "UI/UX Design", type: "design" }
+  - { title: "BRANDING", type: "branding" }
+  - { title: "ILLUSTRATION", type: "illustration" }
 
-# portfolio-items:
-#   - image: "assets/images/portfolio/item-1.png"
-#     url: "#"
-#     portfolio-type:
-#       - type: "design"
-#       - type: "illustration"
+portfolio-items:
+  - image: "assets/images/portfolio/cateringrosieroberson.png"
+    url: "https://cateringrosieroberson.com"
+    portfolio-type:
+      - type: "design"
+      - type: "website"
 
-#   - image: "assets/images/portfolio/item-2.png"
-#     url: "#"
-#     portfolio-type:
-#       - type: "branding"
+  - image: "assets/images/portfolio/pixelperfect.png"
+    url: "https://pixelperfect.luishmata.com"
+    portfolio-type:
+      - type: "design"
+      - type: "website"
 
-#   - image: "assets/images/portfolio/item-3.png"
-#     url: "#"
-#     portfolio-type:
-#       - type: "illustration"
+  - image: "assets/images/portfolio/twincreek.png"
+    url: "https://twincreek-fencing.com"
+    portfolio-type:
+      - type: "design"
+      - type: "website"
 
-#   - image: "assets/images/portfolio/item-6.png"
-#     url: "#"
-#     portfolio-type:
-#       - type: "design"
-#       - type: "branding"
-
-#   - image: "assets/images/portfolio/item-8.png"
-#     url: "#"
-#     portfolio-type:
-#       - type: "illustration"
-
-#   - image: "assets/images/portfolio/item-5.png"
-#     url: "#"
-#     portfolio-type:
-#       - type: "design"
-
-#   - image: "assets/images/portfolio/item-1.png"
-#     url: "#"
-#     portfolio-type:
-#       - type: "branding"
-
-#   - image: "assets/images/portfolio/item-3.png"
-#     url: "#"
-#     portfolio-type:
-#       - type: "design"
-#       - type: "illustration"
-#       - type: "branding"
-
-#   - image: "assets/images/portfolio/item-7.png"
-#     url: "#"
-#     portfolio-type:
-#       - type: "illustration"
 
 #-------------------------------
 # Testimonials Section
