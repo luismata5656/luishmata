@@ -12,6 +12,8 @@ address: 228 Robert St
 copyright: Copyright &copy; 2023 Designed by Luis Mata
 
 menu:
+  # - { name: PPD, link: "/ppd" }
+  # - { name: My Work, link: "/works" }
   - { name: About, link: "/about" }
   - { name: Blog, link: "/blog" }
   - { name: Contact, link: "/contact" }
@@ -38,8 +40,8 @@ hero:
   hero-title: Hi! I’m <br> Luis Mata, <br> Tech Enthusiast
 
 social:
-  - { icon: "ti-facebook", link: "#" }
-  - { icon: "ti-instagram", link: "#" }
+  - { icon: "ti-facebook", link: "https://www.facebook.com/profile.php?id=100092403941198" }
+  - { icon: "ti-instagram", link: "https://www.instagram.com/luismata8603" }
 
 #-------------------------------
 # About (Section and Page)
@@ -52,19 +54,15 @@ blurb-btn-name: know more
 
 # About Page
 
-# # Work Process Section
-# work-process:
-#   - title: "Research and Plan"
-#     icon: "assets/images/icons/plan.png"
-#     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+# Work Process Section
+work-process:
+  - title: "Research and Plan"
+    icon: "assets/images/icons/plan.png"
+    content: "First I meet with possible clients to find out whether or not my services are for them, I then prepare a project brief and a proposal for the client to review."
 
-#   - title: "Design and Develop"
-#     icon: "assets/images/icons/design.png"
-#     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-
-#   - title: "Deliver"
-#     icon: "assets/images/icons/print.png"
-#     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  - title: "Design and Develop"
+    icon: "assets/images/icons/design.png"
+    content: "After working closely with the client to determine their needs, I begin the design and development process. This involves close collaboration to make sure the design is perfect before pushing it to the web."
 
 # # My Team Section
 # team:
@@ -167,22 +165,16 @@ services:
 #-------------------------------
 # Portfolio (Section and Page)
 
-# # Portfolio Home Section
-# portfolio-home-items:
-#   - image: "assets/images/portfolio/item-1.png"
-#     url: "#"
+# Portfolio Home Section
+portfolio-home-items:
+  - image: "assets/images/portfolio/cateringrosieroberson.png"
+    url: "https://cateringrosieroberson.com"
 
-#   - image: "assets/images/portfolio/item-2.png"
-#     url: "#"
+  - image: "assets/images/portfolio/pixelperfect.png"
+    url: "https://pixelperfect.luishmata.com"
 
-#   - image: "assets/images/portfolio/item-3.png"
-#     url: "#"
-
-#   - image: "assets/images/portfolio/item-4.png"
-#     url: "#"
-
-#   - image: "assets/images/portfolio/item-5.png"
-#     url: "#"
+  - image: "assets/images/portfolio/twincreek.png"
+    url: "https://twincreek-fencing.com"
 
 # # Portfolio Page
 # portfolio-label:

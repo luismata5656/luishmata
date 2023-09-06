@@ -6,6 +6,8 @@ image: assets/images/about/author.png
 signature: assets/images/about/signature.png
 ---
 
+
+\
 Hey there! Allow me to introduce myself – I'm Luis Mata, and if there's one thing I'm truly passionate about, it's the world of technology and creative exploration.
 
 ### My Journey So Far:
