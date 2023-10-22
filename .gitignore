@@ -4,4 +4,6 @@ _site
 *.DS_Store
 Gemfile.lock
 .jekyll-cache
-*/.obsidian
+*/.obsidian/
+*/*/.obsidian/
+```
