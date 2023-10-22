@@ -2,7 +2,7 @@
 layout: post
 title:  Hello World!
 date:  2023-08-15 12:00:00 -0700
-image:  /assets/images/blog/post-1.jpg
+image:  /posts/images/post-1.jpg
 author: luis mata
 tags: Introduction, Tech Enthusiasmm, Creative Exploration, Coding Journey
 ---
