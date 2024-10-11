@@ -166,12 +166,8 @@ services:
 portfolio-home-items:
   - image: "assets/images/portfolio/cateringrosieroberson.png"
     url: "https://cateringrosieroberson.com"
-
-  - image: "assets/images/portfolio/pixelperfect.png"
-    url: "https://pixelperfect.luishmata.com"
-
-  - image: "assets/images/portfolio/twincreek.png"
-    url: "https://twincreek-fencing.com"
+  - image: "assets/images/portfolio/archangel.png"
+    url: "https://4RCH4N63L.luishmata.com"
 
 # # Portfolio Page
 portfolio-label:
