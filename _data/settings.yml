@@ -186,14 +186,8 @@ portfolio-items:
       - type: "design"
       - type: "website"
 
-  - image: "assets/images/portfolio/pixelperfect.png"
-    url: "https://pixelperfect.luishmata.com"
-    portfolio-type:
-      - type: "design"
-      - type: "website"
-
-  - image: "assets/images/portfolio/twincreek.png"
-    url: "https://twincreek-fencing.com"
+  - image: "assets/images/portfolio/archangel.png"
+    url: "https://4RCH4N63L.luishmata.com"
     portfolio-type:
       - type: "design"
       - type: "website"
